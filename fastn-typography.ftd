@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: anushkakaole29.github.io/anu-fastn
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: anu-fastn package
+site-title: `anu-fastn`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: anushkakaole29.github.io/anu-fastn
+current-package: anushkakaole29.github.io/anu-fastn
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of anu-fastn.
 
 -- display-type:
-types: $<repo_name>.types
+types: $anu-fastn.types
 
 
 -- end: site-doc.doc-home
